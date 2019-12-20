@@ -4,17 +4,19 @@
 <translationby>Castiga</translationby>
 	<texts>
 		<text name="function_EDGEGrainSilo" 			text="Это здание имеет автоматическое освещение."/>
-		<text name="name_SmallGrainSilo" 				text="Зерновой бункер"/>
-		<text name="name_LargeGrainSilo" 				text="Большой зерновой бункер"/>
-		<text name="name_LargeGrainSiloSystem" 			text="Большая силосная система"/>
-		<text name="name_LargeWhiteGrainSiloSystem" 	text="Большая силосная система из белого зерна"/>
-		<text name="name_SmallGrainSiloExtension" 		text="Расширение бункера для мелкого зерна"/>
-		<text name="name_GrainSiloExtension" 			text="Удлинитель силоса"/>
-		<text name="name_LargeGrainSiloExtension" 		text="Большое зернохранилище"/>
-		<text name="name_LargeWhiteGrainSiloExtension" 	text="Удлинитель бункера большого белого зерна"/>
-		<text name="name_SmallGrainSiloExtension1" 		text="Расширение бункера для мелкого зерна"/>
-		<text name="name_SmallWhiteGrainSiloExtension" 	text="Расширение бункера с белым зерном"/>
-		<!-- <text name="typeDesc_EDGEGrainSilo" text="Silos can be used to store grain"/> -->
-		<!-- <text name="function_EDGEGrainSiloExtension" text="It can be placed within 100 Meters of the farmsilo."/> -->
+		<text name="name_oldUniversalSilo" 				text="Старый универсальный силос"/>
+		<text name="name_newUniversalSilo" 				text="Новый универсальный силос"/>
+		<text name="EDGEFarmsilo" 						text="EDGE Сельскохозяйственный силос"/>
+		<text name="EDGEsilo" 							text="EDGE силос"/>
+		<text name="station_oldSiloName" 				text="Старый фермерский силос"/>
+		<text name="station_newSiloName" 				text="Новый Фермерский Силос"/>
+		<!-- <text name="name_LargeGrainSiloExtension" 		text="Большое зернохранилище"/> -->
+		<!-- <text name="name_SmallGrainSiloExtension" 		text="Расширение бункера для мелкого зерна"/> -->
+		<!-- <text name="name_GrainSiloExtension" 			text="Удлинитель силоса"/> -->
+		<!-- <text name="name_NewLargeGrainSiloExtension" 	text="Новый большой зернохранилище"/> -->
+		<!-- <text name="name_NewSmallGrainSiloExtension" 	text="Новый бункер для мелкого зерна"/> -->
+		<!-- <text name="name_NewGrainSiloExtension" 		text="Расширение нового зернового бункера"/> -->
+		<!-- <text name="typeDesc_EDGEGrainSilo" 			text="Бункеры могут быть использованы для хранения зерна"/> -->
+		<!-- <text name="function_EDGEGrainSiloExtension" 	text="Он может быть размещен в пределах 100 метров от силосохранилища фермы."/> -->
 	</texts>
 </l10n>

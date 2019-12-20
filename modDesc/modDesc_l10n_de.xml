@@ -4,17 +4,19 @@
 <translationby>Castiga</translationby>
 	<texts>
 		<text name="function_EDGEGrainSilo" 			text="Dieses Gebäude verfügt über eine automatische Beleuchtung."/>
-		<text name="name_SmallGrainSilo" 				text="Kleines Getreidesilo"/>
-		<text name="name_LargeGrainSilo" 				text="Großes Getreidesilo"/>
-		<text name="name_LargeGrainSiloSystem" 			text="Großes Getreidesilo-system"/>
-		<text name="name_LargeWhiteGrainSiloSystem" 	text="Großes weißes Getreidesilo-System"/>
-		<text name="name_SmallGrainSiloExtension" 		text="Kleine Getreidesiloverlängerung"/>
-		<text name="name_GrainSiloExtension" 			text="Getreidesilo-Erweiterung"/>
-		<text name="name_LargeGrainSiloExtension" 		text="Große Getreidesiloverlängerung"/>
-		<text name="name_LargeWhiteGrainSiloExtension" 	text="Große weiße Getreidesiloverlängerung"/>
-		<text name="name_SmallGrainSiloExtension1" 		text="Kleine Getreidesiloverlängerung"/>
-		<text name="name_SmallWhiteGrainSiloExtension" 	text="Kleine weiße Getreidesiloverlängerung"/>
-		<!-- <text name="typeDesc_EDGEGrainSilo" text="Silos können zur Lagerung von Getreide verwendet werden"/> -->
-		<!-- <text name="function_EDGEGrainSiloExtension" text="It can be placed within 100 Meters of the farmsilo."/> -->
+		<text name="name_oldUniversalSilo" 				text="Altes Universalsilo"/>
+		<text name="name_newUniversalSilo" 				text="Neues Universalsilo"/>
+		<text name="EDGEFarmsilo" 						text="EDGE Bauernhofsilo"/>
+		<text name="EDGEsilo" 							text="EDGE Silo"/>
+		<text name="station_oldSiloName" 				text="Alter Bauernhofsilo"/>
+		<text name="station_newSiloName" 				text="Neues Bauernhofsilo"/>
+		<!-- <text name="name_LargeGrainSiloExtension" 		text="Große Getreidesiloverlängerung"/> -->
+		<!-- <text name="name_SmallGrainSiloExtension" 		text="Kleine Getreidesiloverlängerung"/> -->
+		<!-- <text name="name_GrainSiloExtension" 			text="Getreidesilo-Erweiterung"/> -->
+		<!-- <text name="name_NewLargeGrainSiloExtension" 	text="Neue Großkornsiloverlängerung"/> -->
+		<!-- <text name="name_NewSmallGrainSiloExtension" 	text="Neue Small Grain Silo Extension"/> -->
+		<!-- <text name="name_NewGrainSiloExtension" 		text="Neue Getreidesiloverlängerung"/> -->
+		<!-- <text name="typeDesc_EDGEGrainSilo" 			text="In Silos kann Getreide gelagert werden"/> -->
+		<!-- <text name="function_EDGEGrainSiloExtension" 	text="Es kann innerhalb von 100 Metern vom Farmsilo platziert werden."/> -->
 	</texts>
 </l10n>
